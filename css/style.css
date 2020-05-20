@@ -3,11 +3,12 @@ body {
     font: 20px Arial, sams-serif;
 }
 .navbar {
-    background-color: yellow;
+    background-color:yellow;
+ 
 }
 .quem-somos {
-     background-color:rgb(82, 2, 2);
-     color: white;
+     background-color:rgb(23, 23, 184);
+     color:white;
      
 }
 
@@ -17,19 +18,19 @@ body {
 }
 
 .Parceiros {
-     background-color: blue;
+     background-color:rgb(107, 10, 10);
      color: white;
 }
 
-.Serviços {
-    background-color: rgb(136, 136, 111);
-    color: white;
+.Competições {
+    background-color:rgb(77, 72, 72);
+    color:white;
 
 }
 
 .bg-footer {
     background-color:black;
-    color: yellowgreen;
+    color:whitez;
 }
 
 
